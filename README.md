@@ -1,13 +1,17 @@
 # issuing-passport-electronically
 a system that allows issuing a passport throught the website.attendance to the passports department only to receive the passport.
 
+# the system bulid with
+PHP,JQuary,CSS,Bootstrab
+
+
 ![الرئيسة](https://user-images.githubusercontent.com/76250695/111905297-f14dd900-8a5b-11eb-8655-d11e4b65eba9.png)
 
 ![ادخال البيانات](https://user-images.githubusercontent.com/76250695/111905293-ef841580-8a5b-11eb-9cc4-ae8a91cf5ad4.png)
 
 ![بالغ](https://user-images.githubusercontent.com/76250695/111905281-e85d0780-8a5b-11eb-963f-1532bde43647.png)
 
-![طفل](https://user-images.githubusercontent.com/76250695/111905287-ec892500-8a5b-11eb-8b0b-1c82132b3513.png)
+
 
 ![نجاح](https://user-images.githubusercontent.com/76250695/111905290-edba5200-8a5b-11eb-9062-6777d777969d.png)
 
